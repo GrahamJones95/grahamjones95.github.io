@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Project 1",
+    "description": "Description of your first project goes here. Add details about the technologies used and what problem it solves.",
+    "contentFile": "/content/projects/project-1.md",
+    "tags": ["react", "javascript"],
+    "date": "2025-12-31",
+    "link": ""
+  },
+  {
+    "id": 2,
+    "title": "Project 2",
+    "description": "Description of your second project goes here. Add details about the technologies used and what problem it solves.",
+    "contentFile": "/content/projects/project-2.md",
+    "tags": ["web", "css"],
+    "date": "2025-12-30",
+    "link": ""
+  },
+  {
+    "id": 3,
+    "title": "Project 3",
+    "description": "Description of your third project goes here. Add details about the technologies used and what problem it solves.",
+    "contentFile": "/content/projects/project-3.md",
+    "tags": ["node", "backend"],
+    "date": "2025-12-29",
+    "link": ""
+  }
+]

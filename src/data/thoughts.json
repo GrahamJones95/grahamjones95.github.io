@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Reflections on Modern Web Development",
+    "date": "2025-12-31",
+    "excerpt": "A deep dive into contemporary development practices and methodologies...",
+    "contentFile": "/content/thoughts/reflections-on-modern-web-development.md"
+  },
+  {
+    "id": 2,
+    "title": "The Journey of Continuous Learning",
+    "date": "2025-12-30",
+    "excerpt": "Exploring the importance of growth mindset in technology...",
+    "contentFile": "/content/thoughts/the-journey-of-continuous-learning.md"
+  },
+  {
+    "id": 3,
+    "title": "Building Better User Experiences",
+    "date": "2025-12-29",
+    "excerpt": "Thoughts on design principles and user-centered development...",
+    "contentFile": "/content/thoughts/building-better-user-experiences.md"
+  }
+]
