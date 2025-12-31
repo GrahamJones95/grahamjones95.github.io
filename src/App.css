@@ -1,15 +1,15 @@
 :root {
   /* Primary Color Palette */
-  --primary-color: #667eea;
-  --secondary-color: #764ba2;
+  --primary-color: #540b0e;
+  --secondary-color: #9e2a2b;
   --accent-color: #f5f7fa;
   --text-dark: #333;
   --text-light: #555;
   --text-muted: #6c757d;
   
   /* Background Colors */
-  --bg-gradient-start: #667eea;
-  --bg-gradient-end: #764ba2;
+  --bg-gradient-start: #606c38;
+  --bg-gradient-end: #283618;
   --bg-white: #ffffff;
   --bg-light: #f8f9fa;
   --bg-lighter: #e9ecef;
@@ -19,7 +19,7 @@
   --card-gradient-end: #c3cfe2;
   
   /* UI Colors */
-  --border-color: #667eea;
+  --border-color: #bc6c25;
   --shadow-color: rgba(0, 0, 0, 0.1);
   --shadow-color-dark: rgba(0, 0, 0, 0.2);
   --overlay-light: rgba(255, 255, 255, 0.1);
